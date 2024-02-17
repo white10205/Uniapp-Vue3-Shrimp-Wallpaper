@@ -1,0 +1,111 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.uni-tag.data-v-1f94d070 {
+  line-height: 14px;
+  font-size: 12px;
+  font-weight: 200;
+  padding: 4px 7px;
+  color: #fff;
+  border-radius: 3px;
+  background-color: #8f939c;
+  border-width: 1rpx;
+  border-style: solid;
+  border-color: #8f939c;
+}
+.uni-tag--default.data-v-1f94d070 {
+  font-size: 12px;
+}
+.uni-tag--default--inverted.data-v-1f94d070 {
+  color: #8f939c;
+  border-color: #8f939c;
+}
+.uni-tag--small.data-v-1f94d070 {
+  padding: 2px 5px;
+  font-size: 12px;
+  border-radius: 2px;
+}
+.uni-tag--mini.data-v-1f94d070 {
+  padding: 1px 3px;
+  font-size: 12px;
+  border-radius: 2px;
+}
+.uni-tag--primary.data-v-1f94d070 {
+  background-color: #2979ff;
+  border-color: #2979ff;
+  color: #fff;
+}
+.uni-tag--success.data-v-1f94d070 {
+  color: #fff;
+  background-color: #18bc37;
+  border-color: #18bc37;
+}
+.uni-tag--warning.data-v-1f94d070 {
+  color: #fff;
+  background-color: #f3a73f;
+  border-color: #f3a73f;
+}
+.uni-tag--error.data-v-1f94d070 {
+  color: #fff;
+  background-color: #e43d33;
+  border-color: #e43d33;
+}
+.uni-tag--primary--inverted.data-v-1f94d070 {
+  color: #2979ff;
+  border-color: #2979ff;
+}
+.uni-tag--success--inverted.data-v-1f94d070 {
+  color: #18bc37;
+  border-color: #18bc37;
+}
+.uni-tag--warning--inverted.data-v-1f94d070 {
+  color: #f3a73f;
+  border-color: #f3a73f;
+}
+.uni-tag--error--inverted.data-v-1f94d070 {
+  color: #e43d33;
+  border-color: #e43d33;
+}
+.uni-tag--inverted.data-v-1f94d070 {
+  background-color: #fff;
+}
+.uni-tag--circle.data-v-1f94d070 {
+  border-radius: 15px !important;
+}
+.uni-tag--mark.data-v-1f94d070 {
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  border-top-right-radius: 15px !important;
+  border-bottom-right-radius: 15px !important;
+}
+.uni-tag--disabled.data-v-1f94d070 {
+  opacity: 0.5;
+}
+.uni-tag-text.data-v-1f94d070 {
+  color: #fff;
+  font-size: 14px;
+}
+.uni-tag-text--primary.data-v-1f94d070 {
+  color: #2979ff;
+}
+.uni-tag-text--success.data-v-1f94d070 {
+  color: #18bc37;
+}
+.uni-tag-text--warning.data-v-1f94d070 {
+  color: #f3a73f;
+}
+.uni-tag-text--error.data-v-1f94d070 {
+  color: #e43d33;
+}
+.uni-tag-text--small.data-v-1f94d070 {
+  font-size: 12px;
+}

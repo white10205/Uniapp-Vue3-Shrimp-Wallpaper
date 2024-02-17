@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "分类列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-load-more": "../../uni_modules/uni-load-more/components/uni-load-more/uni-load-more"
+  }
+}

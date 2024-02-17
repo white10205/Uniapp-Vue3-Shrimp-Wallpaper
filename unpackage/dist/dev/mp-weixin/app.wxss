@@ -1,0 +1,27 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+/*每个页面公共css */
+view, swiper, swiper-item {
+  box-sizing: border-box;
+  border-radius: 10rpx;
+}
+.pageBg {
+  background: linear-gradient(to bottom, transparent, #fff 400rpx), linear-gradient(to right, #beecd8 40%, #f4e2d8);
+  min-height: 100vh;
+}
+.loadingLayout {
+  padding: 30rpx 0;
+}
+.safe-area-inset-bottom {
+  height: env(safe-area-inset-bottom);
+}page{--status-bar-height:25px;--top-window-height:0px;--window-top:0px;--window-bottom:0px;--window-left:0px;--window-right:0px;--window-magin:0px}[data-c-h="true"]{display: none !important;}

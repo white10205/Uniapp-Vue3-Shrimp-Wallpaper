@@ -1,0 +1,60 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.themeItem .box.data-v-f4eafbca {
+  height: 340rpx;
+  border-radius: 10rpx;
+  overflow: hidden;
+  position: relative;
+}
+.themeItem .box .pic.data-v-f4eafbca {
+  width: 100%;
+  height: 100%;
+}
+.themeItem .box .mask.data-v-f4eafbca {
+  width: 100%;
+  height: 70rpx;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.2);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-backdrop-filter: blur(20rpx);
+          backdrop-filter: blur(20rpx);
+  font-weight: 600;
+  font-size: 30rpx;
+}
+.themeItem .box .tab.data-v-f4eafbca {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: rgba(250, 129, 90, 0.7);
+  -webkit-backdrop-filter: blur(20rpx);
+          backdrop-filter: blur(20rpx);
+  color: #fff;
+  font-size: 22rpx;
+  padding: 6rpx 14rpx;
+  border-radius: 0 0 20rpx 0;
+  transform: scale(0.8);
+  transform-origin: left top;
+}
+.themeItem .box.more .mask.data-v-f4eafbca {
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+.themeItem .box.more .text.data-v-f4eafbca {
+  font-size: 18rpx;
+}
